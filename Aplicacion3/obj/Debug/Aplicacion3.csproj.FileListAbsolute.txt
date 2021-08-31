@@ -1,0 +1,7 @@
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.csprojResolveAssemblyReference.cache
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.MainForm.resources
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.csproj.GenerateResource.Cache
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\bin\Debug\Aplicacion3.exe
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\bin\Debug\Aplicacion3.pdb
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.exe
+D:\Luka Corujo\Programas\Git\Aplicacion3\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.pdb
